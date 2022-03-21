@@ -28,7 +28,7 @@ const CoinScreen = () => {
             datos: response,
           });
         });
-      }, []);
+      }, [coinId]);
     
     
 
